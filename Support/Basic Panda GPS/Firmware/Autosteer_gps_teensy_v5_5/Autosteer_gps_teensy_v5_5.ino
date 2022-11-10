@@ -43,7 +43,6 @@ const int32_t baudRTK = 9600;
 
 //Swap BNO08x roll & pitch?
 const bool swapRollPitch = false;
-//const bool swapRollPitch = true;
 
 const bool invertRoll= true;  //Used for IMU with dual antenna
 #define baseLineLimit 5       //Max CM differance in baseline
